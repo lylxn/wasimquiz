@@ -70,7 +70,7 @@ function checkQuiz() {
     { title: "Getting there 🌙",         body: "2 out of 5! You know a little. Still a lot to learn about Hala though." },
     { title: "You know some things ⭐",  body: "3 out of 5! Solid, but a couple slipped past you." },
     { title: "Almost perfect 🔥",        body: "4 out of 5! You clearly know Hala well — just one sneaky one got you." },
-    { title: "You KNOW Hala! 🎯",        body: "Perfect score! You really know her well — honorary best friend status unlocked 💜" }
+    { title: "You KNOW Wasim! 🎯",        body: "Perfect score! You really know her well — honorary best friend status unlocked 💜" }
   ];
 
   document.getElementById('result-score').textContent = score + '/' + total;
